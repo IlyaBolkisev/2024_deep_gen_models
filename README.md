@@ -3,14 +3,12 @@
 Модель решиет задачу генерации реалистичных лиц людей в разрешении 128x128x3.
 
 # Датасет
-Для обучения модеили было отобрано 23 040 изображений знаменитостей.  <br /> 
-датасет: https://www.kaggle.com/datasets/jessicali9530/celeba-dataset  <br /> 
-Для обучения было отобрано 23 040 изображений знаменитостей.  <br /> 
-
+Для обучения модели было отобрано 23 040 изображений знаменитостей.  <br />
+[Ссылка](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset) на датасет  <br /> 
 # Результаты
 
 ## Эксперимент 1:
-15 эпох, 768 batch size, 30 шагов  <br /> 
+15 epochs, 768 batch size, 30 steps per epoch  <br /> 
 ![Результат](/results/1_experiment.png)  <br /> 
 График: 
 ![График функции потерь](/graphs/1_experiment.png)
@@ -25,5 +23,5 @@
 
 # Навигация
 
-[Блокнот с реализацией и экспериментами](/gan-cspup.ipynb) ([Ссылка](https://www.kaggle.com/realist967/gan-cspup) на kaggle)  <br /> 
-[Используемы библиотеки](/requirements.txt)
+[Блокнот](/gan-cspup.ipynb) с реализацией и экспериментами ([Ссылка](https://www.kaggle.com/realist967/gan-cspup) на kaggle)  <br /> 
+Используемые библиотеки [файл](/requirements.txt)
