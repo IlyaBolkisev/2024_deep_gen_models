@@ -13,4 +13,4 @@
 # Навигация
 [Музыкальный файл для переозвучки](audio/ref/)<br /> 
 [Тренировочные музыкальные файлы](audio/source/)<br /> 
-[Итоговый результат](audio/pred/pred.wav)
+[Итоговый результат](audio/pred/pred.wav) ([Ссылка на drive](https://drive.google.com/file/d/1AwRMQrmBY6jxtxdC8eIy_C7n6cp804GX/view?usp=sharing))
